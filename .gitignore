@@ -1,0 +1,10 @@
+# Explicitly keep all local artifacts out of this presentation repository.
+*.zip
+*.docx
+*.pdf
+*.env
+.env*
+node_modules/
+dist/
+work/
+src/
