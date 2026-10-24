@@ -8,3 +8,7 @@ node_modules/
 dist/
 work/
 src/
+
+# Public video is distributed as a Release asset.
+*.mp4
+*.webm
