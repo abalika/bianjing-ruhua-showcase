@@ -10,7 +10,7 @@
 
 原项目制作涉及[Depth Anything V2 Small](https://github.com/DepthAnything/Depth-Anything-V2)（Small权重Apache-2.0）、[Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)（BSD-3-Clause）及[Real-ESRGAN ncnn-vulkan](https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan)（MIT）；网页使用[Three.js](https://github.com/mrdoob/three.js)（MIT）。本展示仓库不包含这些工具的程序、模型或运行包。
 
-中文旁白由[Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)的预设音色辅助生成，没有克隆指定真人。展示视频包含程序实际播放的预生成旁白音轨，不分发模型权重。
+当前1.28.1视频中文旁白使用Microsoft云健（zh-CN-YunjianNeural），八景统一采用作品当前B音色设置，由[edge-tts](https://github.com/rany2/edge-tts)预生成后在网页本地播放；没有克隆指定真人，也没有使用参考影片的原音轨。旧1.28历史视频为[Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)预设音色。展示视频包含程序实际播放的旁白音轨，不分发模型权重。
 
 原项目古琴配乐为Charlie Huang演奏的《平沙落雁》（2006-04-23），[来源](https://commons.wikimedia.org/wiki/File:Pingsha_Luoyan.ogg)，采用[CC BY 2.5](https://creativecommons.org/licenses/by/2.5/)。展示视频包含该录音节选，保留程序中的音量渐变与解说让位效果，转码为AAC；没有提供独立音频下载。音乐是现代录音，不是宋代声音复原。
 

@@ -6,12 +6,17 @@
 
 ## 完整自动游览视频
 
-**[观看或下载全卷展映（4分19秒，MP4）](https://github.com/abalika/bianjing-ruhua-showcase/releases/download/showcase-v1.28/bianjing-ruhua-auto-tour.mp4)**
+**1.28.1 更新版 · 4分21秒 · 9.55MB · 完整八景24镜**
 
-原速浏览器实录，1600×900、25fps，包含八景24镜、八段中文解说、字幕与古琴配乐，从开场录至收卷。旁白、配乐与画面均来自此次程序实际播放，没有加速或拼接导览。网页进度条与控制栏保留在画面中。
+https://github.com/user-attachments/assets/c514f302-d8e7-4ba4-83a0-4197655b241e
 
-手机可下载后播放；视频只展示作品，不能作为可运行程序使用。来源与配乐署名见[CREDITS.md](CREDITS.md)。
+直接点击上方播放器观看。若当前客户端只显示视频链接，可打开[完整视频播放页](https://github.com/abalika/bianjing-ruhua-showcase/issues/1)。
 
+采用更新后的统一B音色与透明字幕，原速浏览器实录，包含八段中文解说和古琴配乐，从开场录至收卷；没有加速或删减导览。网页播放版为960×540、20fps，保留原程序进度条与控制栏。为满足10MB以内的体积限制，画质较高清版有所压缩。
+
+[下载1600×900高清版](https://github.com/abalika/bianjing-ruhua-showcase/releases/download/showcase-v1.28.1/bianjing-ruhua-v1.28.1-hd.mp4) · [下载网页播放版及查看文件校验](https://github.com/abalika/bianjing-ruhua-showcase/releases/tag/showcase-v1.28.1) · [旧1.28视频](https://github.com/abalika/bianjing-ruhua-showcase/releases/tag/showcase-v1.28)
+
+视频只展示作品，不能作为可运行程序使用。来源与配乐署名见[CREDITS.md](CREDITS.md)。
 
 ![虹桥篇：俯桥入市，实际网页画面](images/01-hongqiao.png)
 
@@ -21,7 +26,7 @@
 
 自动展映为八景编排24个镜头。解说、字幕与古琴配乐独立控制，手动接管时暂停导览，继续观看时从当前进度衔接。风物阅读围绕器物、营造和市井生活展开；原画参考与“卷中寻景”让全景体验可以回到画卷本身。
 
-本页展示2026年10月的1.28预览界面。以下均为程序实际运行截图；本仓库提供作品截图与实际播放录制视频，源码及可运行程序包未公开。
+本页视频展示2026年10月的1.28.1预览，以下截图保留1.28版本实际界面；本仓库提供作品截图与实际播放录制视频，源码及可运行程序包未公开。
 
 ## 自由观景
 
